@@ -11,6 +11,8 @@
 8. The Scripts should be loaded fully
 
 
+#### warning: Links in this README.md may break at anytime if the links stop working make an issue request saying which link is broken and I will attempt to replace it
+
 ### Credits:
  - Volcan (Repository Owner & Script Creator)
  - WallHacks (Breeze Client Owner)
@@ -18,6 +20,10 @@
 
 
 ### FAQ:
+
+Q. How do I get Breeze Client?
+
+A. You can purchase Breeze Client at https://breeze.rip/
 
 Q. How can I contribute to the repository?
 
@@ -29,9 +35,7 @@ A. You can find the official scripting API at https://scripting.breeze.rip/
 
 Q. Are there more scripts outside this repository?
 
-A. Yes there are more community made Scripts in the Scripts Forum Channel in the Breeze Official Discord. 
-
-Link: https://discord.gg/Ux66rpQ9ZP (warning: this link may break at any time if it stops working make an issue request and I will attempt to replace it)
+A. Yes there are more community made Scripts in the Scripts Forum Channel in the Breeze Official Discord. You can join the Breeze Official Discord at https://discord.gg/Ux66rpQ9ZP.
 
 Q. Are Scripts Safe? do they contain malware? 
 
