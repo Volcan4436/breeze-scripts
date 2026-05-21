@@ -2,7 +2,7 @@
 // Incompatible with some Scaffold Rotation Modes
 // Potentially Incompatible with some modules that rotate the player (KillAura seems fine)
 
-script.description = "Speed hack using the strafe method, with AutoJump and air-tick limiter.";
+script.description = "Attempts to Increase your Movement Speed / Improve General Movement";
 script.allowBind = true;
 script.allowHold = true;
 

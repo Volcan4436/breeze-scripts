@@ -1,4 +1,4 @@
-script.description = "Vanilla-style fly: strafe horizontally, jump = up, sneak = down, otherwise hover.";
+script.description = "Allows you to Fly, jump = up, sneak = down";
 script.allowBind = true;
 script.allowHold = true;
 

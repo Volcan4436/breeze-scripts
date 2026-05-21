@@ -1,4 +1,4 @@
-script.description = "Cancels sprint entity-action packets to prevent sprint hunger drain.";
+script.description = "Cancels sprint packets to reduce hunger drain.";
 script.allowBind = true;
 script.allowHold = true;
 
