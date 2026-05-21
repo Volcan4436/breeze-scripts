@@ -27,6 +27,12 @@ Q. How do I make my own scripts?
 
 A. You can find the official scripting API at https://scripting.breeze.rip/
 
+Q. Are there more scripts outside this repository?
+
+A. Yes there are more community made Scripts in the Scripts Forum Channel in the Breeze Official Discord. 
+
+Link: https://discord.gg/Ux66rpQ9ZP (warning: this link may break at any time if it stops working make an issue request and I will attempt to replace it)
+
 Q. Are Scripts Safe? do they contain malware? 
 
 A. The scripts provided here are safe to use. Scripts should not be able to access your files or send network requests with the supplied API however this can change if the developer implements HTTP support.
